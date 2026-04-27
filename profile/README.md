@@ -1,4 +1,4 @@
-# 🚀 Reactor Lab
+# Reactor Lab
 
 ### Research. Develop. Deploy.
 
@@ -8,7 +8,7 @@ Our lab focuses on the fusion of Artificial Intelligence, Big Data Analytics, Cl
 
 ---
 
-## 🔬 Core Research Domains
+## Core Research Domains
 
 - Artificial Intelligence & Deep Learning
 - Big Data Analytics for Transportation Systems
@@ -21,7 +21,7 @@ Our lab focuses on the fusion of Artificial Intelligence, Big Data Analytics, Cl
 
 ---
 
-## 🧠 What We Build
+## What We Build
 
 At Reactor Lab, we develop scalable cloud-based intelligent systems that can process large volumes of roadway, sensor, and video data in real time to support transportation agencies, industrial stakeholders, and public safety operations.
 
@@ -38,7 +38,7 @@ We emphasize not only research publication, but also deployable end-to-end solut
 
 ---
 
-## 🩺 Healthcare & Human-Centered Mobility Research
+## Healthcare & Human-Centered Mobility Research
 
 Beyond transportation intelligence, Reactor Lab is actively expanding into healthcare-driven mobility research — studying how neurological disorders, cognitive decline, chronic health conditions, and diabetic impairments influence naturalistic driving behavior, roadway interaction, and long-term safety outcomes.
 
@@ -46,7 +46,7 @@ By combining multimodal sensing, AI-driven behavior analysis, and clinical data 
 
 ---
 
-## 🤝 Collaborative Research Ecosystem
+## Collaborative Research Ecosystem
 
 Reactor Lab is powered by PhD researchers and graduate students from multiple disciplines across Iowa State University, creating a strong interdisciplinary environment at the intersection of engineering, artificial intelligence, transportation, and health analytics.
 
@@ -61,21 +61,21 @@ This collaborative model allows us to develop solutions that are scientifically 
 
 ---
 
-## 🌎 Our Vision
+## Our Vision
 
 Our vision is to engineer intelligent infrastructure systems where roads, vehicles, data, and human behavior work together to create a safer, smarter, and more responsive future.
 
-We believe the future of transportation lies not only in collecting data — but in building AI systems capable of understanding, reasoning, predicting, and acting on that data in real time.
+We believe the future of transportation lies not only in collecting data, but in building AI systems capable of understanding, reasoning, predicting, and acting on that data in real time.
 
 Reactor Lab exists to make that future deployable.
 
 ---
 
-## 👨‍💻 Explore Our Repositories
+## Explore Our Repositories
 
 Research codebases, cloud deployment systems, live dashboards, analytics engines, and publication projects are available across our organization repositories below.
 
 ---
 
-## 📍 Iowa State University  
+## Iowa State University  
 Department of Civil, Construction and Environmental Engineering
